@@ -1,0 +1,25 @@
+{
+  "name": "smain-api",
+  "version": "1.0.0",
+  "description": "This is a repository that contains an API to s-main, an e-commerce that allows obtaining information about products, users and deliveries through endpoints with JWT autentification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoMezaV/smain-api.git"
+  },
+  "keywords": [
+    "aysnc"
+  ],
+  "author": "Francisco Meza",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FranciscoMezaV/smain-api/issues"
+  },
+  "homepage": "https://github.com/FranciscoMezaV/smain-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
